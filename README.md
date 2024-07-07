@@ -26,7 +26,7 @@ programming file for the HW card.
 - Detailed documentation of the work done (both as documentation of the unit and as
 documentation of the project choices made).
 
-In this tutorial, we want to design an 8-bit FIR filter, which has an finite impulse response at 10 
+we want to design an 8-bit FIR filter, which has an finite impulse response at 10 
 coefficients and integrates a 1/10 decimation functionality of the output into the same unit. The 
 filter must be programmable, in the sense that the coefficients ai, with i=0,... ,9 must be able to be 
 loaded from the outside. The operation of the filter must be stopped until the coefficients have all 
